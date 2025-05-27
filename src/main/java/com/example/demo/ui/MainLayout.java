@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.ui;
 
 import com.vaadin.flow.component.applayout.AppLayout;
 import com.vaadin.flow.component.applayout.DrawerToggle;

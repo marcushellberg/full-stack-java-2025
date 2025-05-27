@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.data;
 
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;

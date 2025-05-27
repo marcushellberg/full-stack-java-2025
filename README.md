@@ -1,7 +1,4 @@
-# Demo app for Vaadin Flow
-
-As seen at JCON 2024!
-
+# Full-Stack Web Apps, 100% Java
 
 ## Running the application
 
